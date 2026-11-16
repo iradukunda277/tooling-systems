@@ -1,0 +1,1 @@
+node --check commitlint.config.js
